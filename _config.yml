@@ -22,7 +22,7 @@ repository               : "mlm2426/mlm2426.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Matthew L. Miller"
   pronouns         : # example: "she/her"  
   bio              : "Ecohydrology graduate student studying relationships between flows and riparian vegetation in Verde River basin wilderness areas of central Arizona"
