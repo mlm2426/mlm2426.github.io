@@ -11,54 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. Environmental Science & Policy
+  * Northern Arizona University, 2024 - 2026 (expected)
+* B.S. Cell & Molecular Biology
+  * University of South Florida, 2013 - 2017
+* B.A. Anthropology
+  * University of South Florida, 2013 - 2017
+* A.A. General Engineering
+  * Santa Fe College, 2011 - 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2024 - Present
+  * Northern Arizona University
+  * Graduate Research Assistant
+ 
+* Watershed Resource Assistant: December 2023 - August 2024
+  * US Forest Service Coconino, Tonto & Prescott National Forests - Camp Verde, AZ
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2022 - December 2023
+  * Umyuaq Consulting Group/US Army Corps of Engineers - Tempe, AZ
+  * GIS Analyst
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2018 - September 2022: Senior Aquatic Field Ecologist
+  * National Ecological Observatory Network (NEON) - Fresno, CA
+  * Other roles during this time at NEON include: Instrumentation Field Ecologist, Lead Aquatic Field Technician, Field Technician
+ 
+* October 2017 - May 2018
+  * American Conservation Experience
+  * Conservation Corps Member
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Geographic information systems (GIS) - analysis, cartography, and spatial data management
+* Programming proficiencies
+  * R
+  * Python
+  * HTML/CSS/JavaScript
+* Field research
