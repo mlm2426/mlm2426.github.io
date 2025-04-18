@@ -9,5 +9,8 @@ venue: 'Northern Arizona University'
 paperurl: 'http://mlm2426.github.io/files/NAUGradPoster.pdf'
 citation: ''
 ---
+Haney, J.A., D.S. Turner, A.E. Springer, J.C. Stromberg, L.E. Stevens, P.A. Pearthree, and V. Supplee. 2008. Ecological Implications of Verde River Flows. A report by the Arizona Water Institute, The Nature Conservancy, and the Verde River Basin Partnership. viii + 114 pages.
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Jonathan M. Friedman, Craig A. Stricker, Adam Z. Csank, Honghua Zhou. Effects of age and environment on stable carbon isotope ratios in tree rings of riparian Populus. Palaeogeography, Palaeoclimatology, Palaeoecology. Volume 524, 2019, Pages 25-32, ISSN 0031-0182, https://doi.org/10.1016/j.palaeo.2019.03.022.
+
+McCarroll, D., Loader, N.J., 2006. Isotopes in tree rings. In: Leng, M.J. (Ed.), Developments in Paleoenvironmental Research. Isotopes in Palaeoenvironmental Research Vol. 10. Springer, the Netherlands, pp. 67–116.
