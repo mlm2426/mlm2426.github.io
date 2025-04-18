@@ -1,14 +1,16 @@
 ---
-title: "Paper Title Number 3"
+title: "NAU Graduate Research Symposium References"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: ''
 date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 'Northern Arizona University'
+slidesurl: 'http://mlm2426.github.io/files/NAU_GradSymposiumPoster.pdf'
+paperurl: ''
+citation: ''
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Jonathan M. Friedman, Craig A. Stricker, Adam Z. Csank, Honghua Zhou. Effects of age and environment on stable carbon isotope ratios in tree rings of riparian Populus. Palaeogeography, Palaeoclimatology, Palaeoecology. Volume 524, 2019, Pages 25-32, ISSN 0031-0182, https://doi.org/10.1016/j.palaeo.2019.03.022.
+
+McCarroll, D., Loader, N.J., 2006. Isotopes in tree rings. In: Leng, M.J. (Ed.), Developments in Paleoenvironmental Research. Isotopes in Palaeoenvironmental Research Vol. 10. Springer, the Netherlands, pp. 67–116.
