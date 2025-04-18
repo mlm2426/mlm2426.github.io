@@ -6,7 +6,7 @@ permalink: /publication/NAU-Grad-Symposium-Poster
 excerpt: ''
 date: 2025-04-26
 venue: 'Northern Arizona University'
-paperurl: 'http://mlm2426.github.io/files/NAUGradPoster.pdf'
+paperurl: 'http://mlm2426.github.io/files/MMiller_Poster_20250417.pdf'
 citation: ''
 ---
 Haney, J.A., D.S. Turner, A.E. Springer, J.C. Stromberg, L.E. Stevens, P.A. Pearthree, and V. Supplee. 2008. Ecological Implications of Verde River Flows. A report by the Arizona Water Institute, The Nature Conservancy, and the Verde River Basin Partnership. viii + 114 pages.
